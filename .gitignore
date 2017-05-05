@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>DIV AND SPAN</title>
+</head>
+<body>
+<div>DIV1:Some contents are here.</div>
+<div>DIV2:Following right after DIV1.</div>
+<span>SPAN1:Following right after DIV2.</span>
+<div>DIV3:Following right after SPAN1.<?div>
+<span>SPAN2:Continue the contents of DIV3.</span>
+</div>
+</body>
+</html>
